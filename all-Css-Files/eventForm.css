@@ -1,0 +1,33 @@
+
+.description{
+    display:inline-flex;
+    flex-direction: column;
+    padding-top: 150px;
+    padding-left: 310px;
+    padding-right: 20px;
+}
+
+.description a{
+    padding-top: 10px;
+}
+
+.formulär{
+    display: inline-grid ;
+    grid-template-columns: auto auto;
+    padding-left: 100px;
+    background-color: rgb(140, 199, 199);
+    padding-bottom: 20px;
+   
+}
+.formulär div{
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+body{
+    background-color: rgb(235, 171, 148);
+}
+
+
+
+

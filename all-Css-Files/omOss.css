@@ -1,0 +1,60 @@
+
+.links {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-left: 90px;
+ 
+}
+
+.omOss {
+  display: inline-flex;
+  flex-direction: column;
+  width: 40%;
+  padding-left: 15%;
+  margin-top: 60px;
+}
+
+.rub2 {
+  display: inline-flex;
+  align-items: center;
+}
+
+.omOss .rub2 img {
+  height: 400px;
+}
+
+.teamPic img {
+  width: 700px;
+  height: 350px;
+}
+
+.div {
+  padding-top: 40px;
+}
+
+.förmularet {
+  display: grid;
+  grid-template-columns: 100px 100px;
+  grid-gap: 15px;
+  padding-left: 40px;
+  padding: 30px;
+}
+
+.förmularet button {
+  margin-top: 10px;
+  color: blue;
+ 
+}
+
+.rub2 div {
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+body{
+  background-color: rgb(214, 214, 190);
+}
+
+
+/*# sourceMappingURL=omOss.css.map */

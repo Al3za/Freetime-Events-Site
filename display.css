@@ -1,0 +1,51 @@
+.description {
+  display: inline-flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-left: 200px;
+}
+
+.description a {
+  padding: 10px;
+}
+
+.header {
+  text-align: center;
+}
+
+.pictures {
+  padding-top: 40px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  grid-gap: 5%;
+  margin-bottom: 80px;
+}
+
+.pictures img {
+  width: 300px;
+  height: 200px;
+  border: 3px solid sandybrown;
+}
+
+.pictures div {
+  margin-top: 10px;
+}
+
+.info {
+  display: none;
+}
+
+body {
+  background-color: #d3bf8a;
+}
+
+button {
+  background-color: aquamarine;
+}
+
+.sistaDiv{
+  text-align: center;
+}
+
+/*# sourceMappingURL=display.css.map */
